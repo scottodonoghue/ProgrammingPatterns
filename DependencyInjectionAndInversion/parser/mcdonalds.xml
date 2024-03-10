@@ -1,0 +1,21 @@
+<menu_item>
+    <restaurant>McDonalds</restaurant>
+    <item>
+        <food_name>Big Mac</food_name>
+        <price>$5.95</price>
+        <description>Double stack burger</description>
+        <num_calories>650</num_calories>
+    </item>
+    <item>
+    <food_name>Fries</food_name>
+        <price>$1.95</price>
+        <description>Fried potato sticks</description>
+        <num_calories>400</num_calories>
+    </item>
+    <item>
+        <food_name>McFlurry</food_name>
+        <price>$1.95</price>
+        <description>Whipped ice-cream, machine rarely works</description>
+        <num_calories>350</num_calories>
+    </item>
+</menu_item>
